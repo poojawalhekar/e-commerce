@@ -1,0 +1,19 @@
+.navbar{
+    background-color: greenyellow;
+    padding: 5px; 
+    }
+
+.navbar-title{
+    display: inline-block;
+    color: rgb(10, 9, 9);
+    margin-right: 100px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+.navbar_component{
+    display: inline-block;
+    margin: 0px 50px;
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+}
